@@ -1,0 +1,12 @@
+Usted encontrará los mismos campos tanto en la base de entrenamiento (score_train) como en la base de prueba (score_test), excepto que esta última no contiene la variable incumplimiento que usted debe predecir
+
+Descripción de campos
+Empleado 0=Desempleado, 1=Empleado actualmente
+Tiempo_empleado: Número de años que lleva en el empleo actual (si aplica)
+Saldo_cuenta: Saldo en miles de pesos de la cuenta principal con el banco
+Valor_préstamo: Valor actual que adeuda en préstamos en el sistema financiero
+Cuentas_otros: Número de cuentas que tiene en otros bancos
+Autocontrol: Mediante una prueba escrita se mide el nivel de autocontrol de la persona, en puntaje de 0 a 100
+Impulsividad: Mediante una prueba escrita se mide el nivel de impulsividad de la persona, en puntaje de 0 a 100
+Confianza: Mediante una prueba escrita se mide el nivel de confianza en sí misma de la persona, en puntaje de 0 a 100
+Incumplimiento: 0=Cumplimiento; 1=Incumplimiento
